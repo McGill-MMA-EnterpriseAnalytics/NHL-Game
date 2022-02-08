@@ -1,5 +1,9 @@
 # Group_9_Enterprise
 
+### project_EDA.ipynb
+To run this file you need to have all the data files in a folder named nhl_data. <br/>
+The final dataframe is 'combined'.
+
 ### Files merged into these columns:
 - 'game_id': Unique id of the game
 - 'team_id': Unique id of the team
