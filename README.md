@@ -9,7 +9,7 @@ The final dataframe is 'combined'.
 - 'team_id': Unique id of the team
 - 'HoA': Is the team at home or away?
 - 'won': Did the team win the game?
-- 'settled_in': ???
+- 'settled_in': Did the game end in regular time or in overtime.
 - 'head_coach': Head coach
 - 'goals': Number of goals
 - 'shots': Number of shots
