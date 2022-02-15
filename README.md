@@ -29,8 +29,8 @@ The final dataframe is 'combined'.
 - 'venue_time_zone_id': Id Time Zone of the Venue
 - 'venue_time_zone_offset': Offset of Time Zone of the Venue
 - 'venue_time_zone_tz': Time Zone of the Venue
-- 'timeOnIce': Average Players' Time on Ice
-- 'evenTimeOnIce': Average Even TImeon Ice
-- 'shortHandedTimeOnIce': Average Short Handed Time on Ice
+- 'timeOnIce': A players total time on the ice
+- 'evenTimeOnIce': When a team has the same number of players on the ice as the opposing team
+- 'shortHandedTimeOnIce': When a team has less players on the ice than the opposing team
 - 'powerPlayTimeOnIce': Average Power Play Time on Ice
 - 'goalie_replacement': Was the goalie replaced?
