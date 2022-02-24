@@ -46,7 +46,7 @@ Here are the definitions of features used for this project:
 - 'powerPlayTimeOnIce': Average Power Play Time on Ice
 - 'goalie_replacement': Was the goalie replaced?
 
-The combined dataset after Data Merging step is [period1_combined.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Preprocessed%20Data/period1_combined.csv), and the cleaned dataset after Data Pre-processing step is [readyformodel_V2.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Preprocessed%20Data/readyformodel_V2.csv).
+The combined dataset after Data Merging step is [period1_combined.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Preprocessed%20Data/period1_combined.csv), and the cleaned dataset after Data Pre-processing step is [readyformodel_V2.1.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/readyformodel_V2.1.csv).
 
 ## Tutorial
 - Data Merging: [project_EDA_vs.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/project_EDA_v2.ipynb)
