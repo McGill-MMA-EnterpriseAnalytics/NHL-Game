@@ -31,6 +31,14 @@ For our team’s use case, we decided to build a model that would be useful for 
 The data source is from: 
 [NHL Kaggle Dataset](https://www.kaggle.com/martinellis/nhl-game-data?select=game.csv )
 
+The tables we used are:
+- game.csv
+- game_plays.csv
+- game_teams_stats.csv
+- game_skater_stats.csv
+- game_goalie_stats.csv
+- player_info.csv
+
 Here are the definitions of features used for this project:
 - 'game_id': Unique id of the game
 - 'team_id': Unique id of the team
@@ -65,7 +73,8 @@ Here are the definitions of features used for this project:
 The combined dataset after Data Merging step is [period1_combined.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Preprocessed%20Data/period1_combined.csv), and the cleaned dataset after Data Pre-processing step is [readyformodel_V2.1.csv](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/readyformodel_V2.1.csv).
 
 ## Tutorial
-- Data Merging: [project_EDA_vs.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/project_EDA_v2.ipynb)
+Please notice that there could are documents of previous versions. Here are the links for documents of final versions.
+- Data Merging: [project_EDA_vs.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/project_EDA_v2.ipynb) and [New Dataset Revised for Period #1.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/New%20Dataset%20Revised%20for%20Period%20%231.ipynb)
 - Data Exploration: [Data Exploration_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Exploration_V2.ipynb)
 - Data Pre-processing: [Data Imputation, Encoding,Cleanup,Feature Importance_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Imputation%2C%20Encoding%2CCleanup%2CFeature%20Importance_V2.ipynb)
 - Modeling: [NHL-Modeling_v2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/NHL-Modeling_v2.ipynb)
