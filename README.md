@@ -110,7 +110,13 @@ From various causal inference models, time on ice is the most important feature,
 Overall, time on ice and number of penalty infraction minutes are significant factors that could impact the outcome of the game. And whether the team will play at home or away do cause a difference in the outcome. In future studies, alternative treatment variables such as a certain nutrition that athletes take, or the use of a new hockey equipment could be used for causal analysis. These factors could create an impact on the outcome and having results of such could provide critical judgements for hockey betting. 
 
 ## Clustering Result Analysis
+For the clustering analysis, we ran a KMeans algorithm with 2 clusters (winning vs losing team). Overall there are very few differences on average between winning teams and losing teams, a few notable ones are:
+- On the winning teams the power play scores more with less time on ice in average.
+- The winning teams are more often at home
+- The winning teams have much less goalie replacements than the losing teams
+Other aspects of the game such as average time on ice, penalties and start rink side, are the same for all teams whether they win or lose.
 
+The silhouette score confirms that the differences between the clusters are not well defined and that makes our recommendations from this analysis non-actionable. <br/>
 
 ## Acknowledgements
 This project was conducted as part of the final group project for INSY695: Enterprise DS & ML In Production I, Winter 2022, with Instructor Fatih Nayebi at Desautels Faculty of Management, McGill University. 
