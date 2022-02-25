@@ -31,6 +31,14 @@ For our team’s use case, we decided to build a model that would be useful for 
 The data source is from: 
 [NHL Kaggle Dataset](https://www.kaggle.com/martinellis/nhl-game-data?select=game.csv )
 
+The tables we used are:
+- game.csv
+- game_plays.csv
+- game_teams_stats.csv
+- game_skater_stats.csv
+- game_goalie_stats.csv
+- player_info.csv
+
 Here are the definitions of features used for this project:
 - 'game_id': Unique id of the game
 - 'team_id': Unique id of the team
