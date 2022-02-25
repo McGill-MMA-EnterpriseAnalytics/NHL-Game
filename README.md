@@ -79,7 +79,7 @@ Please notice that there could are documents of previous versions. Here are the 
 - Data Pre-processing: [Data Imputation, Encoding,Cleanup,Feature Importance_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Imputation%2C%20Encoding%2CCleanup%2CFeature%20Importance_V2.ipynb)
 - Modeling: [NHL-Modeling_v2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/NHL-Modeling_v2.ipynb)
 - Causal Inference: [NHL_Causal_Inference.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/NHL_Causal_Inference.ipynb)
-- Clustering:
+- Clustering: [Clustering Approach.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Clustering%20Approach.ipynb)
 - Presentation Slides: [Group 9 Presentation Slides.pdf](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Group%209%20Presentation%20Slides.pdf)
 
 
