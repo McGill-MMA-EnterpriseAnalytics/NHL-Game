@@ -1,8 +1,5 @@
 # NHL Game Group Project -- INSY695 Enterprise DS & ML In Production I
 
-<img src="hockeypic.jpg" style= "width:400px;height:400x" />
-
-
 **Team No.**: 5509-0, Group 9 \
 **Team Name**: NHL Pros \
 **Product Manager**: Anqi Chen (angelach99) \
