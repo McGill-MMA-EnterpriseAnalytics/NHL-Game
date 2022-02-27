@@ -3,7 +3,7 @@
 **Team Name**: NHL Pros \
 **Product Manager**: Anqi Chen (angelach99) \
 **Business Analyst**: Matthew Buttler Ives (matt-buttlerives) \
-**Data Analyst**: Mesaye Baahiru (mesaye3), kexin Chen (KEX9027), Rebecca Mukena Yumba (beccarem) \
+**Data Analyst**: Mesaye Bahiru (mesaye3), kexin Chen (KEX9027), Rebecca Mukena Yumba (beccarem) \
 **Data Scientist**: Betty Au (bettyau), Claire Cai (clairecai97) 
 
 ## Overview and Business implication
@@ -76,7 +76,7 @@ The combined dataset after Data Merging step is [period1_combined.csv](https://g
 Please notice that there could be documents of previous versions. Here are the links for documents of final versions.
 - Data Merging: [project_EDA_vs.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/project_EDA_v2.ipynb) and [New Dataset Revised for Period #1.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/New%20Dataset%20Revised%20for%20Period%20%231.ipynb)
 - Data Exploration: [Data Exploration_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Exploration_V2.ipynb)
-- Data Pre-processing: [Data Imputation, Encoding,Cleanup,Feature Importance_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Imputation%2C%20Encoding%2CCleanup%2CFeature%20Importance_V2.ipynb)
+- Data Pre-processing: [Data Preprocessing_V2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Data%20Preprocessing_V2.ipynb)
 - Modeling: [NHL-Modeling_v2.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/NHL-Modeling_v2.ipynb)
 - Causal Inference: [NHL_Causal_Inference.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/NHL_Causal_Inference.ipynb)
 - Clustering: [Clustering Approach.ipynb](https://github.com/McGill-MMA-EnterpriseAnalytics/NHL-Game/blob/main/Clustering%20Approach.ipynb)
